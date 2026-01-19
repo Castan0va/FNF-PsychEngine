@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="frontparallax.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="parallax0000" x="0" y="0" width="2560" height="720"/>
+	<SubTexture name="parallax0001" x="0" y="0" width="2560" height="720"/>
+	<SubTexture name="parallax0002" x="0" y="730" width="2560" height="720"/>
+	<SubTexture name="parallax0003" x="0" y="730" width="2560" height="720"/>
+	<SubTexture name="parallax0004" x="0" y="1460" width="2560" height="720"/>
+	<SubTexture name="parallax0005" x="0" y="1460" width="2560" height="720"/>
+</TextureAtlas>

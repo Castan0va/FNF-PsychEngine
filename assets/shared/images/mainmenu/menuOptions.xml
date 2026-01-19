@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="menuOptions.png">
+<SubTexture name="credits idle0000" x="1356" y="0" width="829" height="434" frameX="-19" frameY="-17" frameWidth="861" frameHeight="462" />
+<SubTexture name="credits selected0000" x="0" y="552" width="861" height="462" frameX="0" frameY="0" frameWidth="861" frameHeight="462" />
+<SubTexture name="freeplay idle0000" x="0" y="1430" width="851" height="391" frameX="-23" frameY="0" frameWidth="898" frameHeight="407" />
+<SubTexture name="freeplay selected0000" x="537" y="1014" width="898" height="407" frameX="0" frameY="0" frameWidth="898" frameHeight="407" />
+<SubTexture name="options idle0000" x="0" y="1014" width="537" height="416" frameX="-11" frameY="-14" frameWidth="561" frameHeight="431" />
+<SubTexture name="options selected0000" x="1356" y="434" width="561" height="430" frameX="0" frameY="-1" frameWidth="561" frameHeight="431" />
+<SubTexture name="storyMode idle0000" x="687" y="0" width="669" height="524" frameX="-6" frameY="-13" frameWidth="687" frameHeight="552" />
+<SubTexture name="storyMode selected0000" x="0" y="0" width="687" height="552" frameX="0" frameY="0" frameWidth="687" frameHeight="552" />
+</TextureAtlas>

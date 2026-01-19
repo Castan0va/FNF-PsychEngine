@@ -1,0 +1,50 @@
+{
+	"storyName": "VS Sunky",
+	"difficulties": "Normal",
+	"hideFreeplay": true,
+	"weekBackground": "",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Level Fun",
+			"sunk",
+			[
+				0,
+				53,
+				253
+			]
+		],
+		[
+			"Gotsta Go Fest",
+			"sunk",
+			[
+				0,
+				53,
+				253
+			]
+		],
+		[
+			"Epic Sunkdown",
+			"sunk",
+			[
+				0,
+				53,
+				253
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "sunk"
+}

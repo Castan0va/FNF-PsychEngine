@@ -1,0 +1,32 @@
+{
+	"storyName": "name",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "sunk",
+	"startUnlocked": false,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Chilidogs",
+			"terminal",
+			[
+				66,
+				113,
+				255
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "chilidogs",
+	"hiddenUntilUnlocked": true
+}

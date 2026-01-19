@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="lightpull.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="light pull0000" x="0" y="0" width="720" height="720"/>
+	<SubTexture name="light pull0001" x="720" y="0" width="720" height="720"/>
+	<SubTexture name="light pull0002" x="1440" y="0" width="720" height="720"/>
+	<SubTexture name="light pull0003" x="2160" y="0" width="720" height="720"/>
+	<SubTexture name="light pull0004" x="2880" y="0" width="720" height="720"/>
+	<SubTexture name="light pull0005" x="3600" y="0" width="720" height="720"/>
+	<SubTexture name="light pull0006" x="4320" y="0" width="720" height="720"/>
+	<SubTexture name="light pull0007" x="5040" y="0" width="720" height="720"/>
+	<SubTexture name="light pull0008" x="5760" y="0" width="720" height="720"/>
+	<SubTexture name="light pull0009" x="6480" y="0" width="720" height="720"/>
+	<SubTexture name="light pull0010" x="7200" y="0" width="720" height="720"/>
+	<SubTexture name="light pull0011" x="0" y="720" width="720" height="720"/>
+	<SubTexture name="light pull0012" x="720" y="720" width="720" height="720"/>
+	<SubTexture name="light pull0013" x="1440" y="720" width="720" height="720"/>
+	<SubTexture name="light pull0014" x="2160" y="720" width="720" height="720"/>
+	<SubTexture name="light pull0015" x="2880" y="720" width="720" height="720"/>
+	<SubTexture name="light pull0016" x="3600" y="720" width="720" height="720"/>
+	<SubTexture name="light pull0017" x="4320" y="720" width="720" height="720"/>
+	<SubTexture name="light pull0018" x="5040" y="720" width="720" height="720"/>
+	<SubTexture name="light pull0019" x="0" y="720" width="720" height="720"/>
+	<SubTexture name="light pull0020" x="0" y="720" width="720" height="720"/>
+	<SubTexture name="light pull0021" x="0" y="720" width="720" height="720"/>
+	<SubTexture name="light pull0022" x="5760" y="720" width="720" height="720"/>
+	<SubTexture name="light pull0023" x="6480" y="720" width="720" height="720"/>
+	<SubTexture name="light pull0024" x="7200" y="720" width="720" height="720"/>
+	<SubTexture name="light pull0025" x="0" y="1440" width="720" height="720"/>
+	<SubTexture name="light pull0026" x="720" y="1440" width="720" height="720"/>
+	<SubTexture name="light pull0027" x="1440" y="1440" width="720" height="720"/>
+	<SubTexture name="light pull0028" x="2160" y="1440" width="720" height="720"/>
+	<SubTexture name="light pull0029" x="2880" y="1440" width="720" height="720"/>
+</TextureAtlas>

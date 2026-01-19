@@ -1,0 +1,41 @@
+{
+	"storyName": "Skibidi Toilet",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "sunk",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": false,
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"Gotsta Go Fest",
+			"sunk",
+			[
+				0,
+				53,
+				253
+			]
+		],
+		[
+			"Epic Sunkdown",
+			"sunk",
+			[
+				0,
+				53,
+				253
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": true,
+	"weekName": "sunkfreeplay2"
+}

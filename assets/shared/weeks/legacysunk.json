@@ -1,0 +1,50 @@
+{
+	"storyName": "Sunk as an unc",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "sunk",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": false,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Level the Fun One",
+			"sunk",
+			[
+				0,
+				53,
+				253
+			]
+		],
+		[
+			"Insert Outdated Song Name Here",
+			"sunk",
+			[
+				0,
+				53,
+				253
+			]
+		],
+		[
+			"Final Sunkdown",
+			"superSunky",
+			[
+				255,
+				215,
+				60
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": true,
+	"weekName": "legacysunky"
+}
